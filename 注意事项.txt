@@ -1,0 +1,30 @@
+
+
+ASUS@LTH-11000 MINGW64 ~
+$ cd /e/phpstudy_pro/testDemo
+
+ASUS@LTH-11000 MINGW64 /e/phpstudy_pro/testDemo
+$ cd /e/phpstudy_pro/testDemo
+
+ASUS@LTH-11000 MINGW64 /e/phpstudy_pro/testDemo
+$ git config --global user.name "Lingtonghui"
+
+ASUS@LTH-11000 MINGW64 /e/phpstudy_pro/testDemo
+$ git config --global user.email "444036479@qq.com"
+
+ASUS@LTH-11000 MINGW64 /e/phpstudy_pro/testDemo
+$ git init
+Initialized empty Git repository in E:/phpstudy_pro/testDemo/.git/
+
+ASUS@LTH-11000 MINGW64 /e/phpstudy_pro/testDemo (master)
+$
+
+
+
+
+工作区=>暂存区
+
+git add 文件名
+git add * (提交所有文件)
+
+git commit -m "描述"
