@@ -28,3 +28,7 @@ git add 文件名
 git add * (提交所有文件)
 
 git commit -m "描述"
+
+
+查看当前工作区的状态
+git status
