@@ -32,3 +32,10 @@ git commit -m "描述"
 
 查看当前工作区的状态
 git status
+
+从暂存区恢复文件到工作区
+git checkout 文件名
+
+
+查看工作区和暂存区的区别
+git diff
